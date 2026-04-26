@@ -1,6 +1,6 @@
 # Hi, I'm Shuwn 👋
 
-![views](https://komarev.com/ghpvc/?username=shuwn&color=ff69b4&style=flat)
+![views](https://komarev.com/ghpvc/?username=shuwn&color=ff69b4&style=flat)![followers](https://img.shields.io/github/followers/shuwn?color=9fe9ff)
 
 ## About Me
 
@@ -9,3 +9,7 @@ R&D Director, Camera Product Manager, Data Analyst, Maker, Photographer, and Ama
 An experienced researcher and engineer with prior experience at a national research institute in Taiwan. My background combines advanced engineering development with practical product execution across imaging, optics, embedded systems, and intelligent hardware platforms.
 
 I specialize in transforming complex technologies into real-world products, from concept definition to commercialization.
+
+```
+![Metrics](/github-metrics.svg)
+```
