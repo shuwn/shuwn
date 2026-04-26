@@ -1,8 +1,9 @@
+# Hi, I'm Shuwn 👋
+
 ## About Me
 
-Camera product manager, Data analyst, Maker, Photographer, Amateur astrophotographer.
-Is an experienced researcher/engineer who worked at the National Research Institute of Taiwan.
+R&D Director, Camera Product Manager, Data Analyst, Maker, Photographer, and Amateur Astrophotographer.
 
-Proficient in display technology, semiconductor technology, optics, physics, and image processing.
+An experienced researcher and engineer with prior experience at a national research institute in Taiwan. My background combines advanced engineering development with practical product execution across imaging, optics, embedded systems, and intelligent hardware platforms.
 
-![Metrics](https://metrics.lecoq.io/Shuwn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FTaipei)
+I specialize in transforming complex technologies into real-world products, from concept definition to commercialization.
