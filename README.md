@@ -10,4 +10,7 @@ An experienced researcher and engineer with prior experience at a national resea
 
 I specialize in transforming complex technologies into real-world products, from concept definition to commercialization.
 
-<p align="center"><img src="image/medias.svg" alt="Metrics" width="400"></p>
+<p align="center">
+  <img src="image/medias.svg" alt="Metrics" width="400" />
+  <img src="image/habits.charts.svg" alt="Metrics" width="400" />
+</p>

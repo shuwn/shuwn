@@ -27,7 +27,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: image/habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.Metrics_habits }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: no
