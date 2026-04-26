@@ -1,5 +1,7 @@
 # Hi, I'm Shuwn 👋
 
+![views](https://komarev.com/ghpvc/?username=shuwn&color=ff69b4&style=flat)
+
 ## About Me
 
 R&D Director, Camera Product Manager, Data Analyst, Maker, Photographer, and Amateur Astrophotographer.
