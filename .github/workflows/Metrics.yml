@@ -19,7 +19,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: image/medias.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
 
       - name: 🦑 Recent activity charts
@@ -27,7 +27,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: image/medias.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: no
