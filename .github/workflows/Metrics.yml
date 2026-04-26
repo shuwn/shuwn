@@ -18,17 +18,19 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: medias.svg
+          filename: image/medias.svg
+          token: ${{ secrets.TOKEN }}
+          base: header, activity, community, repositories, metadata
+
+      - name: 🦑 Recent activity charts
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: image/medias.svg
           token: ${{ secrets.TOKEN }}
           base: ""
-          config_order: anilist, music
-          output_action: gist
-          committer_gist: ${{ secrets.TOKEN }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.TOKEN }}
-          plugin_music_limit: 9
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Europe/Paris
+
