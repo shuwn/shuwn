@@ -12,5 +12,4 @@ I specialize in transforming complex technologies into real-world products, from
 
 <p align="center">
   <img src="image/medias.svg" alt="Metrics" width="400" />
-  <img src="image/habits.charts.svg" alt="Metrics" width="400" />
 </p>
