@@ -13,3 +13,5 @@ I specialize in transforming complex technologies into real-world products, from
 <p align="center">
   <img src="image/medias.svg" alt="Metrics" width="400" />
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shuwn&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
